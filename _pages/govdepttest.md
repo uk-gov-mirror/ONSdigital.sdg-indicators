@@ -1,7 +1,7 @@
 ---
 title: Government Department Source
 permalink: /governmentsource/
-layout: standalone indicators
+layout: standalone-indicators
 **Goverment Department of Health**
 standalone_indicators:
     - 1-1-1
