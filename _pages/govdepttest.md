@@ -11,8 +11,6 @@ Below is a breakdown of the Government departments that are responsible for each
 
 **Goverment Department of Health**
 
----    
+**Goverment Department for Transport**
 standalone_indicators:
     - 2-2-2
----
-**Goverment Department for Transport**
