@@ -12,7 +12,6 @@ Below is a breakdown of the Government departments that are responsible for each
 **Goverment Department of Health**
 
 ---    
-layout: standalone-indicators
 standalone_indicators:
     - 2-2-2
 ---
