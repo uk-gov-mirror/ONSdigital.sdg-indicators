@@ -5,12 +5,11 @@ layout: standalone-indicators
 standalone_indicators:
     - 1-1-1
     - 3-1-1
+    - 2-2-2
 ---
 
-Below is a breakdown of the Government departments that are responsible for each indicator.
-
 **Goverment Department of Health**
+Below is a summary of the indicators that fall under the Government Department of Health.
 
-**Goverment Department for Transport**
-standalone_indicators:
-    - 2-2-2
+
+
