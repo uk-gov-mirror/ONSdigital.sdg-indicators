@@ -1,5 +1,5 @@
 ---
-title: Government Department Source
+title: Government Department of Health
 permalink: /governmentsource/
 layout: standalone-indicators
 standalone_indicators:
@@ -8,7 +8,7 @@ standalone_indicators:
     - 2-2-2
 ---
 
-**Goverment Department of Health**
+
 Below is a summary of the indicators that fall under the Government Department of Health.
 
 
