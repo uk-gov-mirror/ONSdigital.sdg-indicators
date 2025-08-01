@@ -415,6 +415,7 @@ ignored_disaggregations:
   - Activity (default)
   - Age (default)
   - Urbanisation (default)
+  - Progress
 indicator_config_form:
   enabled: false
   dropdowns: []
