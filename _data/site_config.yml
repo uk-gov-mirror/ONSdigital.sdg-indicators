@@ -582,7 +582,6 @@ meta_tags:
 news:
   category_links: false
 progress_status:
-progress_status:
   status_heading: status.progress_status
   status_help: ''
   status_types:
