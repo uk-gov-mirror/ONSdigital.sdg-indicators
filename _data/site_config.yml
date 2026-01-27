@@ -581,6 +581,7 @@ meta_tags:
 news:
   category_links: false
 progress_status:
+  progress_tabs: true
   status_heading: ''
   status_types: []
 progressive_web_app: 
