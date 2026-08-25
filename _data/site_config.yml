@@ -464,7 +464,7 @@ map_options:
   tileURL: 'https://{s}.tile.jawg.io/{id}/{z}/{x}/{y}{r}.png?access-token={accessToken}'
   tileOptions:
     id: ed56748f-29f9-465e-9269-c715674ee5ff
-    accessToken: yrcGMvxCkRD6zZBF4x3mnAT3OGQJstAj7JvG1iy1UjEdy6JFeDfnzKvXrTK07CxF
+    accessToken: ${{ secrets.JAWG_TOKEN }}
     attribution: >-
       <a href="http://jawg.io" title="Provider of map tiles"
       target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a
