@@ -20,7 +20,7 @@ jobs:
 
     - name: Replace Jawg token
       run: |
-        sed -i "s/JAWG_TOKEN_PLACEHOLDER/${JAWG_TOKEN}/g" site_config.yml
+        sed -i "s/JAWG_TOKEN_PLACEHOLDER/${JAWG_TOKEN}/g" _data/site_config.yml
     - name: Set up Ruby 3.2
       uses: ruby/setup-ruby@v1
       with:
