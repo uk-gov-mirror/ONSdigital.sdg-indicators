@@ -13,9 +13,14 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    env:
+      JAWG_TOKEN: ${{ secrets.JAWG_TOKEN }}
     steps:
     - uses: actions/checkout@v2
+
+    - name: Replace Jawg token
+      run: |
+        sed -i "s/JAWG_TOKEN_PLACEHOLDER/${JAWG_TOKEN}/g" _data/site_config.yml
     - name: Set up Ruby 3.2
       uses: ruby/setup-ruby@v1
       with:
